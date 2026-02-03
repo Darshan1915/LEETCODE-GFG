@@ -12,6 +12,7 @@ I Love problem solving
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
@@ -27,6 +28,7 @@ I Love problem solving
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0207-course-schedule) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search
 |  |
@@ -36,4 +38,12 @@ I Love problem solving
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0222-count-complete-tree-nodes) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
