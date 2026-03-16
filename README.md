@@ -50,4 +50,12 @@ I Love problem solving
 | ------- |
 | [0207-course-schedule](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0210-course-schedule-ii) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
