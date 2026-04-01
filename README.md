@@ -58,4 +58,20 @@ I Love problem solving
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
