@@ -28,6 +28,7 @@ I Love problem solving
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -39,6 +40,7 @@ I Love problem solving
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,10 +59,12 @@ I Love problem solving
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -77,4 +81,8 @@ I Love problem solving
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
