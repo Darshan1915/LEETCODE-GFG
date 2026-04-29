@@ -42,6 +42,7 @@ I Love problem solving
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -61,6 +62,7 @@ I Love problem solving
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3731-find-missing-elements) |
@@ -77,6 +79,7 @@ I Love problem solving
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0023-merge-k-sorted-lists) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -94,4 +97,5 @@ I Love problem solving
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
