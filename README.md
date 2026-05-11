@@ -104,4 +104,12 @@ I Love problem solving
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0064-minimum-path-sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
