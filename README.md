@@ -48,6 +48,7 @@ I Love problem solving
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0222-count-complete-tree-nodes) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -66,6 +67,7 @@ I Love problem solving
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3731-find-missing-elements](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -100,10 +102,12 @@ I Love problem solving
 | [0064-minimum-path-sum](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0064-minimum-path-sum) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## String
 |  |
 | ------- |
@@ -112,4 +116,12 @@ I Love problem solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+## Bitmask
+|  |
+| ------- |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 <!---LeetCode Topics End-->
