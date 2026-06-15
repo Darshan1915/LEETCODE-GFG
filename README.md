@@ -78,6 +78,7 @@ I Love problem solving
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0023-merge-k-sorted-lists) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,4 +125,8 @@ I Love problem solving
 |  |
 | ------- |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
