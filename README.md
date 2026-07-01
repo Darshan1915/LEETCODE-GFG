@@ -30,6 +30,7 @@ I Love problem solving
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1726-tuple-with-same-product](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1726-tuple-with-same-product) |
 | [3731-find-missing-elements](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
 |  |
@@ -67,6 +68,7 @@ I Love problem solving
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
+| [1726-tuple-with-same-product](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1726-tuple-with-same-product) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3731-find-missing-elements](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -129,4 +131,8 @@ I Love problem solving
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2181-merge-nodes-in-between-zeros) |
+## Counting
+|  |
+| ------- |
+| [1726-tuple-with-same-product](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1726-tuple-with-same-product) |
 <!---LeetCode Topics End-->
