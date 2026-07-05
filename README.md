@@ -65,6 +65,7 @@ I Love problem solving
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
@@ -101,6 +102,7 @@ I Love problem solving
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3731-find-missing-elements) |
 ## Matrix
