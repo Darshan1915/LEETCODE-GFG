@@ -10,6 +10,7 @@ I Love problem solving
 | [0222-count-complete-tree-nodes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ I Love problem solving
 | [0210-course-schedule-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -25,6 +27,7 @@ I Love problem solving
 | [0222-count-complete-tree-nodes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0872-leaf-similar-trees) |
 ## Hash Table
 |  |
 | ------- |
