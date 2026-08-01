@@ -43,6 +43,7 @@ I Love problem solving
 | [0207-course-schedule](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0210-course-schedule-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1162-as-far-from-land-as-possible](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1162-as-far-from-land-as-possible) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ I Love problem solving
 | [0283-move-zeroes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0560-subarray-sum-equals-k) |
+| [1162-as-far-from-land-as-possible](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1162-as-far-from-land-as-possible) |
 | [1726-tuple-with-same-product](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1726-tuple-with-same-product) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
@@ -114,11 +116,13 @@ I Love problem solving
 | [0064-minimum-path-sum](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1162-as-far-from-land-as-possible) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0064-minimum-path-sum) |
+| [1162-as-far-from-land-as-possible](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1162-as-far-from-land-as-possible) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## String
 |  |
