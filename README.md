@@ -79,6 +79,7 @@ I Love problem solving
 | [1162-as-far-from-land-as-possible](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1162-as-far-from-land-as-possible) |
 | [1726-tuple-with-same-product](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1726-tuple-with-same-product) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [3433-count-mentions-per-user](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3433-count-mentions-per-user) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3731-find-missing-elements](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -109,6 +110,7 @@ I Love problem solving
 | ------- |
 | [0056-merge-intervals](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
+| [3433-count-mentions-per-user](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3433-count-mentions-per-user) |
 | [3731-find-missing-elements](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -144,6 +146,7 @@ I Love problem solving
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3433-count-mentions-per-user](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3433-count-mentions-per-user) |
 ## Counting
 |  |
 | ------- |
@@ -153,4 +156,8 @@ I Love problem solving
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+## Math
+|  |
+| ------- |
+| [3433-count-mentions-per-user](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3433-count-mentions-per-user) |
 <!---LeetCode Topics End-->
