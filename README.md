@@ -35,6 +35,7 @@ I Love problem solving
 | [0560-subarray-sum-equals-k](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1726-tuple-with-same-product](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1726-tuple-with-same-product) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3731-find-missing-elements](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
@@ -80,6 +81,7 @@ I Love problem solving
 | [1726-tuple-with-same-product](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1726-tuple-with-same-product) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3433-count-mentions-per-user](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3433-count-mentions-per-user) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3731-find-missing-elements](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -126,6 +128,7 @@ I Love problem solving
 | [0064-minimum-path-sum](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0064-minimum-path-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1162-as-far-from-land-as-possible) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
 | ------- |
@@ -155,9 +158,18 @@ I Love problem solving
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0560-subarray-sum-equals-k) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3433-count-mentions-per-user) |
+## Greedy
+|  |
+| ------- |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3434-maximum-frequency-after-subarray-operation) |
+## Enumeration
+|  |
+| ------- |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3434-maximum-frequency-after-subarray-operation) |
 <!---LeetCode Topics End-->
