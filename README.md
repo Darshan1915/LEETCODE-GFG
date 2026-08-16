@@ -32,6 +32,7 @@ I Love problem solving
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1726-tuple-with-same-product](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1726-tuple-with-same-product) |
@@ -76,6 +77,7 @@ I Love problem solving
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [1162-as-far-from-land-as-possible](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1162-as-far-from-land-as-possible) |
 | [1726-tuple-with-same-product](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1726-tuple-with-same-product) |
@@ -137,6 +139,7 @@ I Love problem solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,4 +175,8 @@ I Love problem solving
 |  |
 | ------- |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3434-maximum-frequency-after-subarray-operation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
