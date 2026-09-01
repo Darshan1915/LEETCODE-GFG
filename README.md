@@ -15,6 +15,7 @@ I Love problem solving
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -42,6 +43,7 @@ I Love problem solving
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0210-course-schedule-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -74,6 +76,7 @@ I Love problem solving
 | [0056-merge-intervals](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0349-intersection-of-two-arrays) |
@@ -121,6 +124,7 @@ I Love problem solving
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/1162-as-far-from-land-as-possible) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -179,4 +183,8 @@ I Love problem solving
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0496-next-greater-element-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
