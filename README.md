@@ -139,6 +139,7 @@ I Love problem solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0038-count-and-say) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
