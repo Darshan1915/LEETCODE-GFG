@@ -139,11 +139,13 @@ I Love problem solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0496-next-greater-element-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
@@ -174,6 +176,7 @@ I Love problem solving
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Enumeration
 |  |
@@ -187,4 +190,8 @@ I Love problem solving
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0200-number-of-islands) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Darshan1915/LEETCODE-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
